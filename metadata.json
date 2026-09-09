@@ -1,0 +1,6 @@
+{
+  "name": "Manufacturing Invoice OCR & Receipt Manager",
+  "description": "Upload manufacturing invoices and receipts, extract total costs and fields via OCR, select custom fields, save to database, and export to Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
